@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Textra/static/css/main.073c9b0a.css",
+    "main.js": "/Textra/static/js/main.71ab3994.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Textra/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Textra/index.html",
+    "main.073c9b0a.css.map": "/Textra/static/css/main.073c9b0a.css.map",
+    "main.71ab3994.js.map": "/Textra/static/js/main.71ab3994.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Textra/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.71ab3994.js"
+  ]
+}
